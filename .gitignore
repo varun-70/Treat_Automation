@@ -2,3 +2,7 @@ target
 testng.xml
 *.apk
 test-output/
+.gitignore
+.project
+.classpath
+.DS_STORE
