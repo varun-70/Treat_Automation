@@ -1,0 +1,4 @@
+target
+testng.xml
+*.apk
+test-output/
